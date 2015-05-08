@@ -6,25 +6,24 @@
 
 ## Technical
 
-- Development
-	- TDD
-	- Python, C#, C++, Javascript, C
-	- Unit, Integration, Acceptance, Performance, End-to-End testing
-- Web
-	- NodeJS/npm
-	- React, Knockout, Angular for dynamic content
-	- RESTful services, Web Services for integration
-- CI/CD
-	- Go, Jenkins, git, svn, etc.
 - DevOps
-	- Ansible, AWS, Vagrant, Docker, bash, vi, *nix tools
-- Automation
-	- build, deploy, test, orchestration, dashboarding
+	- TDD: Unit, Integration, Acceptance, Performance, End-to-End testing
+	- Automation: build, deploy, test, orchestration, dashboarding
+	- Continuous Integration/Continuous Delivery with Go, Jenkins, git, svn, etc.
+
+- Languages/Tools
+	- Python, C#, C++, Javascript, C
+	- NodeJS, .NET 
+	- Infrastructure as Code: Ansible, AWS, Vagrant, Docker, bash, vi, *nix tools
+	- React, Knockout, Angular for dynamic apps
+	- RESTful services, Web Services
 
 ## Work Practices
 
 - Agile/Scrum Project Delivery
 	- Iterations, Planning/Requirements, Estimation, Backlog, Stories/Features/Epics, Pair Programming, Ceremonies
+- Ops/Reactive
+	- Experience with post-delivery support, manual investigation and maintenance
 
 ## Experience
 

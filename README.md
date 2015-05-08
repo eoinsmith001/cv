@@ -29,7 +29,8 @@
 ## Experience
 
 - 2013-2015: [ThoughtWorks](http://www.thoughtworks.com), Brisbane, Australia
-	- Consultant Developer
+	- Consultant Developer; Online Ordering system for a national Pizza delivery service (4 months)
+	- Consultant Developer; Migration of platform & apps to AWS for a national insurance/banking company
 - 2010-2013: [Murex](https://www.murex.com), Dublin, Ireland
 	- Systems Engineer/Performance Tester
 - 2008-2010: [CERN](http://home.web.cern.ch), Geneva, Switzerland

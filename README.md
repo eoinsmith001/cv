@@ -28,12 +28,12 @@
 
 ## Experience
 
-- 2013-2015: [ThoughtWorks](http://www.thoughtworks.com), Brisbane, Australia
+- [ThoughtWorks](http://www.thoughtworks.com), Brisbane, Australia: 2013-2015 
 	- Consultant Developer; Online Ordering system for a national Pizza delivery service (4 months)
 	- Consultant Developer; Migration of platform & apps to AWS for a national insurance/banking company
-- 2010-2013: [Murex](https://www.murex.com), Dublin, Ireland
+- [Murex](https://www.murex.com), Dublin, Ireland: 2010-2013 
 	- Systems Engineer/Performance Tester
-- 2008-2010: [CERN](http://home.web.cern.ch), Geneva, Switzerland
+- [CERN](http://home.web.cern.ch), Geneva, Switzerland: 2008-2010
 	- Developer, LHCb project
-- 2007-2008: NTNU Technology Transfer, Trondheim, Norway
+- [NTNU Technology Transfer](http://www.ntnu.no), Trondheim, Norway: 2007-2008
 	- Internship, Business Development

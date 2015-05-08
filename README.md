@@ -14,7 +14,8 @@
 - Languages/Tools
 	- Python, C#, C++, Javascript, C
 	- NodeJS, .NET 
-	- Infrastructure as Code: Ansible, AWS, Vagrant, Docker, bash, vi, *nix tools
+	- Infrastructure as Code: Ansible, AWS, Vagrant, Docker
+	- Unix tools: bash, vi, gnuplot, all standard utilities
 	- React, Knockout, Angular for dynamic apps
 	- RESTful services, Web Services
 

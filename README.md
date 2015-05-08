@@ -11,10 +11,11 @@
 	- Python, C#, C++, Javascript, C
 	- Unit, Integration, Acceptance, Performance, End-to-End testing
 - Web
-	- React, Knockout, Angular, Node JS & various package managers/utilities
-	- RESTful services, Web Services
+	- NodeJS/npm
+	- React, Knockout, Angular for dynamic content
+	- RESTful services, Web Services for integration
 - CI/CD
-	- Go, Jenkins, git & various repositories/version control 
+	- Go, Jenkins, git, svn, etc.
 - DevOps
 	- Ansible, AWS, Vagrant, Docker, bash, vi, *nix tools
 - Automation
@@ -27,11 +28,11 @@
 
 ## Experience
 
-- 2013-2015: ThoughtWorks, Brisbane, Australia
+- 2013-2015: [ThoughtWorks](http://www.thoughtworks.com), Brisbane, Australia
 	- Consultant Developer
-- 2010-2013: Murex Adv. Tech., Dublin, Ireland
+- 2010-2013: [Murex](https://www.murex.com), Dublin, Ireland
 	- Systems Engineer/Performance Tester
-- 2008-2010: CERN, Geneva, Switzerland
-	- Developer
+- 2008-2010: [CERN](http://home.web.cern.ch), Geneva, Switzerland
+	- Developer, LHCb project
 - 2007-2008: NTNU Technology Transfer, Trondheim, Norway
 	- Internship, Business Development

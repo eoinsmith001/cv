@@ -34,9 +34,11 @@
 - [Murex](https://www.murex.com), Dublin, Ireland
 	- 2010-2013 
 	- Systems Engineer/Performance Tester
+	- Real-Time exposure calculation module for financial processing platform provided as vendor product to >100 clients
 - [CERN](http://home.web.cern.ch), Geneva, Switzerland
 	- 2008-2010
 	- Developer, LHCb project
+	- Parallelisation of legacy simulation & analysis applications
 - [NTNU Technology Transfer](http://www.ntnu.no), Trondheim, Norway
 	- 2007-2008
 	- Internship, Business Development

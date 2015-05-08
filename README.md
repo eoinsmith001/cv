@@ -10,7 +10,6 @@
 	- TDD
 	- Python, C#, C++, Javascript, C
 	- Unit, Integration, Acceptance, Performance, End-to-End testing
-	- Dependency Injection, OO principles, MVC
 - Web
 	- React, Knockout, Angular, Node JS & various package managers/utilities
 	- RESTful services, Web Services

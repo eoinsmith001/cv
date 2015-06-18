@@ -3,6 +3,7 @@
 ## Details
 
 - eoinsmith001@gmail.com
+- https://ie.linkedin.com/in/eoinsmith001
 
 ## Technical
 

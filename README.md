@@ -69,9 +69,9 @@
 ## Education
 
 - UCD BSc Hons Mathematical Science
-        - Graducated 2006
-        - Pure Maths
-        - Applied Maths
-        - Statistics
-        - Computational Mathematics
-                - Java, C, Matlab development
+	- Graducated 2006
+	- Pure Maths
+	- Applied Maths
+	- Statistics
+	- Computational Mathematics
+		- Java, C, Matlab development

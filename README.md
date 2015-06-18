@@ -30,7 +30,7 @@
 ## Experience
 
 - [ThoughtWorks](http://www.thoughtworks.com), Brisbane, Australia
-	- A global professional services providing software development and consulting for corporate clients, covering design, development, operations, project management, UX, and transformation projects
+	- A global professional services providing software development and consulting for corporate clients, covering design, development, operations, project management, UX, and transformation projects.  Strong focus on embedded development resources/Agile teams driving innovation using fast-feedback enabled by test-driven development, aggressive automation, and paired-programming.
 	- 2013-2015: Consultant Developer
 	- Engagement 1: Developer; Online Ordering system for a national Pizza delivery service (4 months)
 		- embedded with client in an Agile team (~12 people) as a Developer

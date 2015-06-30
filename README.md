@@ -84,7 +84,7 @@
 	- 555 points
 	- A1 English, French, Physics&Chemistry
 
-# Hobbies/Interests
+## Hobbies/Interests
 - Cooking
 - Guitar & Turntables
 - Running

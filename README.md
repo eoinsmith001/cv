@@ -26,14 +26,14 @@
 - Ops/Reactive
 	- Experience with post-delivery support, manual investigation and maintenance
 
-## Professinal Experience
+## Professional Experience
 
 - 2013-2015: Consultant Developer, [ThoughtWorks](http://www.thoughtworks.com), Brisbane, Australia
 	- ThoughtWorks is a global professional services company providing software development and consulting for corporate clients, covering design, development, operations, project management, and transformation projects.  There is a strong emphasis on embedded development resources/Agile teams driving innovation using fast-feedback enabled by test-driven development, aggressive automation, and paired-programming.
 	- Engagement 1: Developer; Online-Ordering application (Web/iOS/Android) for a national Pizza retailer
 		- embedded on-site with client in an Agile team (~12 people) as a Developer
 		- Delivery of features on a 2-week Agile iteration schedule
-		- Issue Mgmt with Trello
+		- Issue Management with Trello
 		- .NET/SQLServer/HTML5/Javascript development for Web Application managing iOS and Android applications
 		- Combination of RESTful and Web Services
 		- CI/CD implemented using Go, git-tfs, TDD (NUnit, jasmine, Cucumber, Selenium WebDriver), paired programming

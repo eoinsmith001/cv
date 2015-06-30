@@ -63,7 +63,7 @@
 		- Release support (documentation, configuration testing & recommendations)
 		- pre-release UAT (manual testing)
 		- Documentation of technical features and functionality
-		- Compiled and delivered a 3-day training course covering tehnical, practical and case-study material to companion office off-site in Beirut, Lebanon
+		- Compiled and delivered a 3-day training course covering technical, practical and case-study material to companion office off-site in Beirut, Lebanon
 - 2008-2010: Developer (Research Fellow), LHCb experiment, [CERN](http://home.web.cern.ch), Geneva, Switzerland
 	- CERN is the European particle physics research laboratory providing particle accelerators and infrastructure for high-energy physics research.  The LHCb software group provide applications and computing resources for the LHCb physics group.
 	- Project: Parallelisation of legacy simulation & analysis applications

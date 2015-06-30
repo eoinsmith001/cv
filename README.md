@@ -81,8 +81,8 @@
 	- Computational Mathematics including development in Java, C, Matlab, Sass
 
 - Leaving Certificate, Ard Scoil Chiarain Naofa, Clara, Offaly, Ireland
-        - 555 points
-        - A1 English, French, Physics&Chemistry
+	- 555 points
+	- A1 English, French, Physics&Chemistry
 
 # Hobbies/Interests
 - Cooking

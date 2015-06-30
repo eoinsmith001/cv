@@ -39,7 +39,7 @@
 		- CI/CD implemented using Go, git-tfs, TDD (NUnit, jasmine, Cucumber, Selenium WebDriver), paired programming
 	- Engagement 2: Developer/Operations; Migration of platform & applications to Cloud for a national insurance/banking company
 		- embedded on-site with client in an Agile team (~10 people) as a Developer/DevOps
-		- Issue Mgmt with Jira/Confluence
+		- Issue Management with Jira/Confluence
 		- Ansible/AWS/Java/bash/Python development of Cloud Infrastructure for insurance claim processing web application
 		- CI/CD implemented using Jenkins, git & svn, TDD (bash, PyUnit, curl), paired programming
 		- Project management experience: scoping, estimating, planning, tracking, leading of cermonies (retrospective, showcase, etc.)
@@ -52,16 +52,16 @@
 	- A global company developing and supporting a financial processing platform implementing trading, risk management and processing solutions.  The Dublin office develops the real-time risk exposure calculation module provided to over 100 clients.
 	- Team of 3, working complementing development team of ~20
 	- Performance Tester
-		- development of automation framework for performance testing, using Python/bash
+		- Development of automation framework for performance testing, using Python/bash
 		- Profiling, analysis, and investigation using jstack, jmap, jprofiler and similar tools
 		- automation of test cases/schedules
 	- System Engineer
-		- maintenance of test environments for multiple client mirrors using scripting/bash
+		- Maintenance of test environments for multiple client mirrors using scripting/bash
 		- Documentation using Confluence
 	- Product Support
 		- Reproduction and debugging of client issues (environment copies, investigation, test automation)
 		- Release support (documentation, configuration testing & recommendations)
-		- pre-release UAT (manual testing)
+		- Pre-release UAT (manual testing)
 		- Documentation of technical features and functionality
 		- Compiled and delivered a 3-day training course covering technical, practical and case-study material to companion office off-site in Beirut, Lebanon
 - 2008-2010: Developer (Research Fellow), LHCb experiment, [CERN](http://home.web.cern.ch), Geneva, Switzerland
